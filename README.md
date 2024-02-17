@@ -1,3 +1,4 @@
 # belajar-kolaborasi
-asik<br>
-seru
+- asik<br>
+- seru<br>
+- agak bosen
